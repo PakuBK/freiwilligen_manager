@@ -1,0 +1,58 @@
+{
+  "Aachen" : {
+      "Aachen-Land" : 1,
+      "Düren" : 2,
+      "Heinsberg" : 5,
+      "Mönchengladbach" : 8,
+      "Krefeld" : 10,
+      "Eifel" : 5
+  },
+  "Aachen-Land" : {
+      "Aachen" : 1,
+      "Düren" : 2,
+      "Heinsberg" : 3,
+      "Mönchengladbach" : 7,
+      "Krefeld" : 10,
+      "Eifel" : 5
+  },
+  "Düren" : {
+      "Aachen-Land" : 2,
+      "Aachen" : 2,
+      "Heinsberg" : 7,
+      "Mönchengladbach" : 7,
+      "Krefeld" : 10,
+      "Eifel" : 10
+  },
+  "Heinsberg" : {
+      "Aachen-Land" : 3,
+      "Düren" : 7,
+      "Aachen" : 5,
+      "Mönchengladbach" : 1,
+      "Krefeld" : 4,
+      "Eifel" : 10
+  },
+  "Mönchengladbach" : {
+      "Aachen-Land" : 7,
+      "Düren" : 7,
+      "Heinsberg" : 1,
+      "Aachen" : 8,
+      "Krefeld" : 2,
+      "Eifel" : 10
+  },
+  "Krefeld" : {
+      "Aachen-Land" : 10,
+      "Düren" : 10,
+      "Heinsberg" : 4,
+      "Mönchengladbach" : 2,
+      "Aachen" : 10,
+      "Eifel" : 10
+  },
+  "Eifel" : {
+      "Aachen-Land" : 5,
+      "Düren" : 10,
+      "Heinsberg" : 10,
+      "Mönchengladbach" : 10,
+      "Krefeld" : 10,
+      "Aachen" : 5
+  }
+}
